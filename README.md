@@ -6,3 +6,4 @@ Training project
 - Adaptability
 - Crossbrowser code
 - Forms
+### Deploy: https://seriakovaoksana.github.io/YokNgalam/
